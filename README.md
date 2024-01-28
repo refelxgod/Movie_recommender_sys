@@ -7,3 +7,4 @@ Gone are the days of uncertainty in selecting the perfect film. MovieMinds adapt
 MovieMinds' capabilities extend beyond the mainstream, encouraging users to explore hidden gems and diverse genres. The system stays on the pulse of the cinematic world, ensuring you're always in the know about the latest releases.
 
 Embrace a seamless and tailored movie-watching experience with MovieMinds – where the intersection of machine learning and entertainment creates a personalized journey through the vast landscape of cinema. Transform your movie nights into unforgettable adventures with MovieMinds, your ultimate movie companion.
+I'll furthur be adding the app.py file to make a usable website using this using streamlit and will be deploying the whole project using docker.
